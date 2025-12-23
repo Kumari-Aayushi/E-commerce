@@ -1,9 +1,9 @@
-E-Commerce Web Application
+*E-Commerce Web Application*
 Overview
 
-This project is a full-stack E-Commerce Web Application that delivers a complete online shopping experience similar to major platforms such as Amazon and Flipkart. The application supports product discovery, cart management, secure checkout, order processing, and administrative control, all built using modern web development practices.
+This project is a full-stack E-Commerce Web Application that delivers a complete online shopping experience similar to leading platforms such as Amazon and Flipkart.
 
-The system is designed with a strong focus on scalability, security, performance, and clean architecture, making it suitable for real-world deployment and professional evaluation.
+The application supports product discovery, cart management, secure checkout, order processing, and administrative control. It is designed with a strong focus on scalability, security, performance, and clean architecture, making it suitable for real-world deployment and professional evaluation.
 
 Key Features
 User Features
@@ -35,15 +35,16 @@ Order monitoring and processing
 Centralized administrative control
 
 Tech Stack
-Frontend
 
-HTML5 (semantic structure)
+*Frontend*
 
-CSS3 (Flexbox, Grid, responsive layouts)
+HTML5 – semantic structure
 
-JavaScript (ES6+) for interactivity
+CSS3 – Flexbox, Grid, responsive layouts
 
-Backend
+JavaScript (ES6+) – interactivity and dynamic behavior
+
+*Backend*
 
 Node.js
 
@@ -61,13 +62,13 @@ Mongoose ODM
 
 Tools & Technologies
 
-Git & GitHub for version control
+Git & GitHub – version control
 
-Environment variables for secure configuration
+Environment variables – secure configuration
 
-Modular folder structure for maintainability
+Modular folder structure – maintainability
 
-Project Structure
+*Project Structure*
 E-commerce/
 │
 ├── frontend/
@@ -122,7 +123,7 @@ cd ../frontend
 npm install
 
 
-Configure environment variables
+*Configure environment variables*
 
 Create a .env file in the backend directory:
 
@@ -139,11 +140,6 @@ npm start
 Start the frontend application
 
 npm start
-
-
-Open in browser
-
-http://localhost:3000
 
 Security Implementation
 
@@ -165,9 +161,9 @@ Reusable components and APIs
 
 Ready for cloud deployment and CI/CD pipelines
 
-Future Enhancements
+*Future Enhancements*
 
-Online payment gateway integration
+Payment gateway integration
 
 Product ratings and reviews
 
@@ -193,6 +189,6 @@ Responsive UI development
 
 Production-ready project structuring
 
-Conclusion
+*Conclusion*
 
 This E-Commerce Web Application demonstrates a strong understanding of real-world e-commerce systems and modern web development practices. It serves as a solid portfolio project showcasing full-stack development, system design, and scalable architecture.
